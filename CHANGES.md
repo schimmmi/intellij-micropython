@@ -4,6 +4,10 @@ The Changelog
 1.4.5 - 2024-07-27
 ------------------
 
+### Added
+
+* Added support for ESP32 devices
+
 ### Fixed
 
 * Don't interrupt program execution when REPL is started right after the upload

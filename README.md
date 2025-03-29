@@ -16,6 +16,7 @@ The Python code development plugin for [MicroPython](http://micropython.org/) de
 The plugin supports Python development for these devices:
 
 * [ESP8266](https://github.com/JetBrains/intellij-micropython/wiki/ESP8266)
+* [ESP32](https://github.com/JetBrains/intellij-micropython/wiki/ESP32)
 * [PyBoard](https://github.com/JetBrains/intellij-micropython/wiki/Pyboard)
 * [BBC Micro:bit](https://github.com/JetBrains/intellij-micropython/wiki/BBC-Micro%3Abit)
 * [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
@@ -48,7 +49,7 @@ See also [the changelog](CHANGES.md) for the plugin.
       connected device. If you want to flash a sub-directory to the root directory of your device, please mark this
       sub-directory as a sources root: right-click on it and select <em>"Mark Directory as | Sources Root"</em>. Its
       icon will become blue, see the screenshot.
-    
+
       ![Flash directory](media/flash-directory.png)
 
     * You can edit your run configurations for flashing files or directories in <em>"Run | Edit Configurations..."</em>
